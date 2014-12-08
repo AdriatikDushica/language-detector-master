@@ -1,0 +1,19 @@
+{
+    "name": "adriatikdushica/language-detector-master",
+    "require": {
+        "symfony/debug": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adriatik Dushica",
+            "email": "adriatik.adriatikdushica@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "autoload": {
+        "psr-0": {
+            "Adriatikdushica\\": "vendor/"
+        }
+    }
+}
