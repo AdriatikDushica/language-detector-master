@@ -8,6 +8,8 @@
 
 namespace Adriatikdushica\Language;
 
+use AdriatikDushica\Language\Languages\LanguageEnglish;
+use AdriatikDushica\Language\Languages\LanguageItalian;
 
 class MaskPercentage {
 
