@@ -12,8 +12,11 @@ use Adriatikdushica\Language\MaskPercentage;
 
 class LanguageDetector {
 
-    public function detect(MaskPercentage $maskPercentage)
+    private $masks = [];
+
+    public function detect($text)
     {
+
     }
 
 }
